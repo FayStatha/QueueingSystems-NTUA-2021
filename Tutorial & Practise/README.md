@@ -47,6 +47,6 @@ for the interval [-π, π].
 
 #### Exercise 6
 
-Define function powers, which takes a number and return it's square, cube, quad and cinq power.
+Define function powers, which takes a number and returns it's square, cube, quad and cinq power.
 
 
