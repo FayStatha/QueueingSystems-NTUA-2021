@@ -20,8 +20,8 @@ d) Calculate the mean of array's elements.
 
 Solve the linear system:
 
-2x + 7y + 3z = 5
-4x - 5y - z = 10
+2x + 7y + 3z = 5 <br/><br/>
+4x - 5y - z = 10 <br/><br/>
 2x - 4y + z = -1
 
 #### Exercise 3
