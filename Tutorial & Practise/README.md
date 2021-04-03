@@ -2,7 +2,9 @@
 
 The first lab of the course was about understanding the basics about Octave.
 
-Also, 6 simple exercises for practise were given to us, with their solutions on the presentation. I solve those problems, some of them a little bit different than the proposed solution.
+Also, 6 simple exercises for practise were given to us, with their solutions on the presentation.
+
+In this folder I give my solutions for those exercises, with most of them to differ from the given.
 
 #### Exercise 1
 
