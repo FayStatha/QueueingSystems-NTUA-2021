@@ -1,7 +1,7 @@
 # QueueingSystems-NTUA-2021
 
-This repo holds the assignements and the code of the 5 labs of Queueing Systems, NTUA course for summer semester of academic year 2020-2021.
+This repository contains the assignments, code and reports of the 5 lab exercises for ECE/NTUA course "Queueing Systems" in academic year 2019-2020.
+
+There is a folder for each lab, and each one has a README file with a simple description of the tasks in English.
 
 All the assignements and reports are written in Greek, because that is the main language of this course. 
-
-Each folder consists of the assignement, the report and the code of each lab. Furthermore, I included a README file, trying to describe the tasks of each lab in English.
