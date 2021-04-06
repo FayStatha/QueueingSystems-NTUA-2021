@@ -1,8 +1,8 @@
 # Tutorial & Practise
 
-The first lab of the course was about understanding the basics about Octave.
+On the introduction lab to the course, the purpose was to understand the basics about Octave.
 
-Also, 6 simple exercises for practise were given to us, with their solutions on the presentation.
+Therefore, 6 simple exercises for practise were given to us, with their solutions on the presentation.
 
 In this folder I give my solutions for those exercises, with most of them to differ from the given.
 
