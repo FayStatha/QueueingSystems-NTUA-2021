@@ -12,8 +12,6 @@ Plot the Probability Mass Function of Poisson Distribution with lambda = [10, 30
 
 #### Task B
 
-Solve the linear system:
-
 For Poisson Distribution with lambda = 30, calculate the Mean Value and Variance.
 
 #### Task C
