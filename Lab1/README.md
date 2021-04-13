@@ -1,4 +1,4 @@
-# Tutorial & Practise
+# Lab 1
 
 The first lab of the course was about understanding Poisson Distribution, Exponential Distribution and Poisson Counting Process.
 
