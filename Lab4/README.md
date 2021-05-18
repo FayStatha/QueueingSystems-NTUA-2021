@@ -6,6 +6,6 @@ This lab was mainly theoretical and most of the tasks was about calculating thin
 
 The code for the second exercise, which is a simulation of an M/M/2 queue with different probabilities to each server, was given to us. 
 
-We only needed to change the thresholds on the above lines of code, so that each random number used for the simulation could lead us to the right transition.
+We only needed to change the thresholds, so that each random number used for the simulation could lead us to the right transition.
 
 
